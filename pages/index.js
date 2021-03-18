@@ -2,6 +2,7 @@ import Head from 'next/head';
 import styles from '../styles/Home.module.css';
 import Hero from './components/Hero/Hero';
 import Nav from './components/Nav/Nav';
+import About from './components/About/About';
 
 export default function Home() {
   return (
@@ -16,6 +17,8 @@ export default function Home() {
       <Nav />
 
       <Hero />
+
+      <About />
     </div>
   )
 }

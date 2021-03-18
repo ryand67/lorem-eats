@@ -3,8 +3,11 @@ font-family: 'Amatic SC', cursive; */
 
 :root {
   --main-text: rgb(243, 243, 243);
+  --dark-text: rgb(34, 34, 34);
   --main-accent: rgb(185, 153, 11);
   --light-accent: rgb(228, 197, 62);
+  --background-dark: rgb(15, 9, 0);
+  --background-green: rgb(11, 19, 10);
 }
 
 html,
