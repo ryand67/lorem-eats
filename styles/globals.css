@@ -1,3 +1,11 @@
+/* font-family: 'Abel', sans-serif;
+font-family: 'Amatic SC', cursive; */
+
+:root {
+  --main-text: rgb(243, 243, 243);
+  --main-accent: rgb(207, 180, 57);
+}
+
 html,
 body {
   padding: 0;
